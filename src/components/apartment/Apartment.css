@@ -1,0 +1,17 @@
+.apartment-inner {
+    padding: 300px 20px;
+}
+
+.apartment-inner2 {
+    padding: 400px 20px;
+}
+
+.bg-black {
+    width: 130%;
+    background-color: rgb(101 101 101 / 72%);
+    padding: 10px;
+}
+
+.current-apt-img {
+    width: 100%;
+}

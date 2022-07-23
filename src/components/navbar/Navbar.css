@@ -1,0 +1,27 @@
+.logo {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.my-navbar {
+    background-color: blue;
+}
+
+.display-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-btn {
+    margin-left: -6px !important;
+}
+
+nav .my-nav {
+    color: #fff;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.whiteLink {
+    color: #fff;
+}

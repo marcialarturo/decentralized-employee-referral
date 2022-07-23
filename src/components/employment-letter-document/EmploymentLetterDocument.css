@@ -1,0 +1,7 @@
+.left {
+    float: right;
+}
+
+.left button {
+    margin-right: 0.1rem;
+}
